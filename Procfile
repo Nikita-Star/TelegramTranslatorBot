@@ -1,1 +1,1 @@
-web: python3 TeleBot.py
+web: python3 translator2000.py
