@@ -1,2 +1,2 @@
-pyTelegraBotAPI==3.6.6
+pyTelegramBotAPI==3.6.6
 googletrans==2.4.0
