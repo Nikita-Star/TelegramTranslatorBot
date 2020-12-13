@@ -1,5 +1,6 @@
 #! /usr/bin/env python
-# -*- coding: utf-8 -*-from googletrans import Translator
+# -*- coding: utf-8 -*-
+from googletrans import Translator
 import telebot
 
 def translate_now(text,lenguage):
